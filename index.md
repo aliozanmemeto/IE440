@@ -3,7 +3,7 @@ You can find the pdf of assignments in the given link below
 
 ## Bisection Search, Golden Section Search, Newton’s Method, and Secant Method
 
-- (https://colab.research.google.com/drive/1QLTN3TeJOPX5eqxxGi8RhgcOSfqQp88M?usp=sharing)
+- [Here](https://colab.research.google.com/drive/1QLTN3TeJOPX5eqxxGi8RhgcOSfqQp88M?usp=sharing)
 
 ## Squared Euclidean Distance Single Facility Problem, Squared Euclidean Distance Single Facility Problem, ALA Squared Euclidean Distance, and ALA Euclidean Distance
 
