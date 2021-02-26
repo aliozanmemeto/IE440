@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Progress Journal of IE440
+You can find the pdf of assignments in the given link below
 
-You can use the [editor on GitHub](https://github.com/aliozanmemeto/IE440/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Bisection Search, Golden Section Search, Newton’s Method, and Secant Method
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- https://colab.research.google.com/drive/1QLTN3TeJOPX5eqxxGi8RhgcOSfqQp88M?usp=sharing
 
-### Markdown
+## Squared Euclidean Distance Single Facility Problem, Squared Euclidean Distance Single Facility Problem, ALA Squared Euclidean Distance, and ALA Euclidean Distance
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- https://colab.research.google.com/drive/18FV5bwPcc9mrQTrRLupIz6xHTgNRCWOF?usp=sharing
 
-```markdown
-Syntax highlighted code block
+## Cyclic Coordinate Search, Hook & Jeeves Method, and Simplex Search
 
-# Header 1
-## Header 2
-### Header 3
+- https://colab.research.google.com/drive/15aARYTA7Fa0rqNrQ6woHCc-E_LKjCnUT#scrollTo=mEprdT-KAccF
 
-- Bulleted
-- List
+## Steepest Descent Method, Newton’s Method (with exact line search), DFP (Davidon - Fletcher - Powell) Method, and BFGS (Broyden - Fletcher - Goldfarb - Shanno) Method
 
-1. Numbered
-2. List
+- https://colab.research.google.com/drive/1seWOsdtP1a6WQyZkm1nvr_64tIwCzA2i?usp=sharing
 
-**Bold** and _Italic_ and `Code` text
+## NLP using Reduced Gradient Method
 
-[Link](url) and ![Image](src)
-```
+- https://colab.research.google.com/drive/1B4mRfk66gy7xbmUU2pjTRT4SXe2IzOYS#scrollTo=6l0Gdzv5jd7k
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## [Final Question 1](IE440FinalQuestion1_Fall2020 (2).pdf)
 
-### Jekyll Themes
+- [Here](FINAL20-2016402060 (1).ipynb) is my final exam question one - take home. The first question, analycally fitting a polynomial regression to a given dataset; the second question, the same dataset solution by desinging multi-layer perceptrons. [Here](FINAL20-2016402060 (1).docx) is the report. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aliozanmemeto/IE440/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contributors 
+* BERKAY AKBAŞ
+* ALKIM CAN ÇELİK
+* BARAN DOĞRU
+* ALİ OZAN MEMETOĞLU
