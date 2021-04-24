@@ -23,7 +23,7 @@ You can find the pdf of assignments in the given link below
 
 ## [Final Question 1](IE440FinalQuestion1_Fall2020 (2).pdf)
 
-- [Here](FINAL20-2016402060 (1).ipynb) is my final exam question one - take home. The first question, analycally fitting a polynomial regression to a given dataset; the second question, the same dataset solution by desinging multi-layer perceptrons. [Here](FINAL20-2016402060 (1).docx) is the report. 
+- [Here](FINAL20-2016402060 (1).ipynb) is my final exam question one - take home. The first question, analycally fitting a polynomial regression to a given dataset; the second question, the same dataset solution by desinging multi-layer perceptrons. [Here](FINAL20-2016402060 (1).docx) is the report. For the [pseudo code of perceptron algorithms](PerceptronAlgorithms.pdf) 
 
 ## Contributors 
 * BERKAY AKBAŞ
